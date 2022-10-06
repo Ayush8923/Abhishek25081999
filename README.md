@@ -1,7 +1,6 @@
 - Hi, I’m @Abhishek25081999
 - I’m interested in Web Development
-- I’m currently learning laravel
-- I’m looking to collaborate on .....
+- I’m currently learning laravel,SpringBoot.
 - How to reach me [LinkedIn](https://www.linkedin.com/in/abhishek-n-b9854113a/)
 
 <!---
