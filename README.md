@@ -3,7 +3,10 @@
 - I’m currently learning laravel,SpringBoot.
 - How to reach me [LinkedIn](https://www.linkedin.com/in/abhishek-n-b9854113a/)
 
-<!---
-Abhishek25081999/Abhishek25081999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### :computer: Work
+
+- [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
+
+[![Negi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhishek25081999
+&theme=xcode)](https://git.io/Abhishek25081999
+) 
