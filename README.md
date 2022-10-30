@@ -4,6 +4,7 @@
 - I’m currently learning laravel,SpringBoot.
 - <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-n-b9854113a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-n-b9854113a/" height="30" width="40" /></a>
 <!-- - How to reach me [LinkedIn](https://www.linkedin.com/in/abhishek-n-b9854113a/) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek25081999&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek25081999" /> </p>
 
 ### :computer: Work
 
