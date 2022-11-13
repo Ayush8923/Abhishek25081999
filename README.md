@@ -29,7 +29,10 @@
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![windows%20terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek25081999&theme=blue-green)
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek25081999&theme=blue-green) -->
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 # 📊GitHub Stats :
 <p align="center">
